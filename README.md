@@ -20,8 +20,8 @@ If you want to chat or discuss anything, drop a message:
 ## 📕 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [0018 - Time Capsule 1](https://notes.manassadasivuni.com/0018-time-capsule-1/)
-- [HUSMUN](https://manassadasivuni.com/husmun/)
-- [Time Blocking](https://manassadasivuni.com/time-blocking/)
-- [Productivity Is Overrated](https://manassadasivuni.com/productivity-is-overrated/)
 - [FLAMUN CAS Reflection](https://notes.manassadasivuni.com/FLAMUN-CAS-Entry/)
+- [TOK Journal Entry 3 - The Logistical Map](https://notes.manassadasivuni.com/tok-journal-entry-3-the-logistical-map/)
+- [TOK Journal Entry 2 - Tools](https://notes.manassadasivuni.com/tok-journal-entry-2-tools/)
+- [0017 - 5AM](https://notes.manassadasivuni.com/0017-5am/)
 <!-- BLOG-POST-LIST:END -->
