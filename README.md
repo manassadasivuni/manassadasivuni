@@ -16,3 +16,12 @@ If you want to chat or discuss anything, drop a message:
 - [Instagram](https://instagram.com/manassadasivuni)
 - [LinkedIn](https://www.linkedin.com/in/manas-sadasivuni/)
 - [Email](mailto:me@manassadasivuni.com)
+
+## 📕 Recent blog posts
+<!-- BLOG-POST-LIST:START -->
+- [0018 - Time Capsule 1](https://notes.manassadasivuni.com/0018-time-capsule-1/)
+- [HUSMUN](https://manassadasivuni.com/husmun/)
+- [Time Blocking](https://manassadasivuni.com/time-blocking/)
+- [Productivity Is Overrated](https://manassadasivuni.com/productivity-is-overrated/)
+- [FLAMUN CAS Reflection](https://notes.manassadasivuni.com/FLAMUN-CAS-Entry/)
+<!-- BLOG-POST-LIST:END -->
