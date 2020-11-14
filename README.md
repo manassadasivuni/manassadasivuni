@@ -16,7 +16,3 @@ If you want to chat or discuss anything, drop a message:
 - [Instagram](https://instagram.com/manassadasivuni)
 - [LinkedIn](https://www.linkedin.com/in/manas-sadasivuni/)
 - [Email](mailto:me@manassadasivuni.com)
-
-## 📕 Recent blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
