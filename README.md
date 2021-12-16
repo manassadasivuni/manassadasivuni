@@ -12,7 +12,7 @@ At the moment, I'm starting my first year in the IB Diploma Programme, taking Ma
 ## ✨ Talk to me
 If you want to chat or discuss anything, drop a message:
 
-- [Twitter](https://twitter.com/sadasivunimanas)
+- [Twitter](https://twitter.com/manacloo)
 - [Instagram](https://instagram.com/manassadasivuni)
 - [LinkedIn](https://www.linkedin.com/in/manas-sadasivuni/)
 - [Email](mailto:me@manassadasivuni.com)
